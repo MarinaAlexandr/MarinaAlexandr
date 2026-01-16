@@ -7,9 +7,13 @@ I design and build geoinformation solutions for spatial related problems.
 My Tech stack:
 
 ⟶ GIS: QGIS, ArcGIS. 
+
 ⟶ Remote sensing: Google Earth Engine, ESA SNAP, Orfeo Toolbox. 
+
 ⟶ Databases and data management: PostgreSQL/PostGIS, PgAdmin, GeoNetwork, Open ModelSphere.
+
 ⟶ Programming and automation: Python, R, SQL, JavaScript, HTML, CSS, PowerQuery.
+
 ⟶ Other tools: Visual Studio Code, Powershell, Azure, LASTools, CloudCompare,Power BI.
 
 Fun fact, If you know Sylvia Plath’s *fig tree* metaphor, you might recognize this feeling. I'm a...
