@@ -6,5 +6,5 @@ I design and build geoinformation solutions for spatial related problems.
 
 My Tech stack:
 
-\rightharpoonup GIS: QGIS, ArcGIS 
+<\rightharpoonup> GIS: QGIS, ArcGIS 
 
