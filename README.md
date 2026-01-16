@@ -2,4 +2,8 @@
 
 I’m Marina a geospatial data analyst with a strong academic background in statistics and geoinformation systems, including a remote sensing–focused thesis for my MSc in Geospatial thecnologies.
 
-I design and build geoinformation solutions for spatial analysis. 
+I design and build geoinformation solutions for spatial related problems. 
+
+My Tech stack:
+<\rightharpoonup> GIS: QGIS, ArcGIS 
+
