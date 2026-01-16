@@ -5,5 +5,6 @@ I’m Marina a geospatial data analyst with a strong academic background in stat
 I design and build geoinformation solutions for spatial related problems. 
 
 My Tech stack:
-<\rightharpoonup> GIS: QGIS, ArcGIS 
+
+\rightharpoonup GIS: QGIS, ArcGIS 
 
