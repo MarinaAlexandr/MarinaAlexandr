@@ -14,6 +14,8 @@ My Tech stack:
 
 ⟶ Programming and automation: Python, R, SQL, JavaScript, HTML, CSS, PowerQuery.
 
-Fun facts, 
+Fun facts, I enjoy mixing maps with literature and pop references as I believe maps are not just analytical tools, but also narrative devices.
+
+
 
 
